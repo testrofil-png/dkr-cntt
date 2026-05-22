@@ -1,0 +1,6 @@
+{
+  "name": "Dak'Content",
+  "description": "Plateforme SaaS IA moderne de création de contenu marketing et d'affiches publicitaires optimisée pour les PME d'Afrique francophone.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
